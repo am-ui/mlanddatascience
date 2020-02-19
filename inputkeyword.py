@@ -1,0 +1,7 @@
+str=input("Enter your data")
+print("recieved input as:",str)
+name=input("Enter your name")
+age=input("Enter your age")
+print("welcome",name)
+print("your age is",age)
+print("after 5 year your age will be:",(int(age)+5))
